@@ -13,6 +13,7 @@ Running the project
 
 * Install WAMP
 * Import database from store.sql file.
+* Copy the Fashion Folder to C:\wamp64\www\
 * Run WAMP and open web page from browser: http://localhost/Fashion/index.php
 
 Project Developer
