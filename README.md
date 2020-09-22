@@ -1,2 +1,1 @@
-# Lifestyle
-&lt;?php $con=mysqli_connect("localhost","root","","store") or die(mysqli_error($con)); ?>
+An Online Shopping website developed using Html, CSS, Bootstrap, MySQL, PHP.
