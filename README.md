@@ -1,6 +1,6 @@
-# LifestyleStore
+
 An Online Shopping website developed using Html, CSS, Bootstrap, MySQL, PHP.<br>
-http://lifestore.000webhostapp.com/
+
 
 Features
 --------
@@ -13,8 +13,8 @@ Running the project
 
 * Install WAMP
 * Import database from store.sql file.
-* Run WAMP and open web page from browser: http://localhost/LifestyleStore/index.php
+* Run WAMP and open web page from browser: http://localhost/Fashion/index.php
 
 Project Developer
 ----------------
-Sajal Agrawal
+Ram Mohan
